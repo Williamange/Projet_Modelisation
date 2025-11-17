@@ -27,3 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/Main.class
+/emprunt.class
+/livres.class
+/users.class
